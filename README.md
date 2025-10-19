@@ -14,6 +14,7 @@ A collection of all the academic projects I’ve worked on during my university 
 
 
 ## 📊 3rd Year
+- [NOtFlex - Student Portal](https://github.com/Xain1501/NotFlexStudentPortal)
 <!--
 - [SQL Database for Hospital Records](https://github.com/Xain1501/hospital-db)
 - [React Frontend for College Club Portal](https://github.com/Xain1501/club-portal)
